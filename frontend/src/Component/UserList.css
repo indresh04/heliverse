@@ -1,0 +1,25 @@
+.cards{
+    display: flex;
+    /* margin-left: 1rem; */
+    /* justify-content: space-between !important; */
+    flex-wrap: wrap;
+    align-items: center;
+    margin-right: 2rem;
+    
+
+    
+}
+.cards h1{
+    width: 100%;
+}
+.pager{
+    padding: 1rem;
+}
+.pager{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pager button {
+    margin: 1rem;
+}

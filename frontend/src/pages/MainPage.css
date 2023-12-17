@@ -1,0 +1,12 @@
+.navBar {
+    display:flex ;
+    flex-wrap: wrap;
+  }
+  .topName{
+    width: 100%;
+    margin: 1rem 10rem 1rem;
+  }
+  .main-box{
+    display: flex;
+    background-color: #c5c1c1;
+  }
